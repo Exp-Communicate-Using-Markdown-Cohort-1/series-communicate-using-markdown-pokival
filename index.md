@@ -10,3 +10,8 @@
 $ echo "I love COMP290"
 Printing text to the console
 ```
+
+# Creating a task list
+- [ ] Finish this assignment
+- [ ] Go to the BEAM training
+- [ ] Sleep
